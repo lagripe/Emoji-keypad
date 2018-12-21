@@ -1,0 +1,13 @@
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\Emojis.exe.config
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\Emojis.exe
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\Emojis.pdb
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\HidLibrary.dll
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\WindowsInput.dll
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\bin\Release\HidLibrary.pdb
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\obj\Release\Emojis.csprojResolveAssemblyReference.cache
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\obj\Release\Emojis.Form1.resources
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\obj\Release\Emojis.Properties.Resources.resources
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\obj\Release\Emojis.csproj.GenerateResource.Cache
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\obj\Release\Emojis.exe
+C:\Users\DzNiT0\Documents\Visual Studio 2015\Projects\Emojis\Emojis\obj\Release\Emojis.pdb
